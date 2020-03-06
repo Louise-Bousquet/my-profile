@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: mistyrose;
+    font-family: courier;
+    font-weight: lighter;
+    color: rgb(61, 58, 58);
+    width: 100%;
+}
+
+h3{
+    background-color: mintcream;
+    padding: 50px;
+    margin: 50px auto;
+    border-radius: 10px;
+    width: 700px; 
+    box-shadow: 2px 3px 3px rgb(173, 172, 172);
+}
+
+div{
+    background-color: mintcream;
+    padding: 50px;
+    margin: 50px auto;
+    border-radius: 10px;
+    width: 700px;
+    box-shadow: 2px 3px 3px rgb(173, 172, 172);
+    max-width: 70%;
+}
+
+#logo{
+    height: 50px;
+    margin: 50px;
+}
+
+#logo:hover{
+    opacity: 0.5;
+    transition: 0.4s;
+}
+
+#profil{
+    border-radius: 160px;
+    margin-bottom: 60px;   
+}
+
+#ESSEC-color{
+    color: rgb(61, 58, 58);
+}
+
